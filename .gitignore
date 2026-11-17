@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+CLAUDE.md
+tenantkit build plan for Claude Code.md
